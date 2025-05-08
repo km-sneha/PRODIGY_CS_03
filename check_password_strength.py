@@ -92,3 +92,8 @@ def get_password_input():
 
 # Run the program
 get_password_input()
+
+# Run the program
+get_password_input()
+input("\nPress Enter to exit...")
+
