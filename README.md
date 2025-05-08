@@ -58,7 +58,7 @@ python password_checker.py
 
 ## 👨‍💻 Developed By
 
-**Aswanth K P**  
+**SNEHA K M**  
 _ProDigy Infotech Internship Project_
 
 ---
